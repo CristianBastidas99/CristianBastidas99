@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cristian Bastidas</h1>
 <h3 align="center">A passionate backend developer from Colombia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianbastidas99&label=Profile%20views&color=0e75b6&style=flat" alt="cristianbastidas99" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianbastidas99" alt="cristianbastidas99" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/cristia99787343" target="blank"><img src="https://img.shields.io/twitter/follow/cristia99787343?logo=twitter&style=for-the-badge" alt="cristia99787343" /></a> </p>
+
 - 🔭 I’m currently working on [Software_3_Plataforma_Literaria_Impulso](https://github.com/CristianBastidas99/Software_3_Plataforma_Literaria_Impulso)
 
 - 🌱 I’m currently learning **.net**
@@ -25,6 +31,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbastidas99&show_icons=true&locale=en&layout=compact" alt="cristianbastidas99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianbastidas99&show_icons=true&locale=en" alt="cristianbastidas99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianbastidas99&" alt="cristianbastidas99" /></p>
+
 
 <!--
 **CristianBastidas99/CristianBastidas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

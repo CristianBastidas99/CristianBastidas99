@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Cristian Bastidas — Backend Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Cristian Bastidas — Desarrollador Backend">
   <style>
     :root { --bg1:#f6f8fa; --bg2:#e6fffb; --fg:#0d1117; --muted:#57606a; --accent:#0f9488; --grid:#d0d7de; --panel:#ffffff; }
     @media (prefers-color-scheme: dark) {
@@ -33,18 +33,18 @@
   <rect x="0" y="0" width="8" height="260" rx="4" class="accent"/>
 
   <text x="64" y="104" class="name">Cristian Bastidas</text>
-  <text x="66" y="146" class="role">BACKEND · FULL STACK · CLOUD</text>
-  <text x="66" y="186" class="tag">I build APIs, microservices and the infrastructure that runs them.</text>
-  <text x="66" y="214" class="tag">Based in Colombia</text>
+  <text x="66" y="146" class="role">INGENIERO DE SISTEMAS · BACKEND · FULL STACK</text>
+  <text x="66" y="186" class="tag">Construyo APIs, microservicios y la infraestructura que los ejecuta.</text>
+  <text x="66" y="214" class="tag">Desde Colombia</text>
 
   <!-- mini terminal -->
   <g transform="translate(780,48)">
     <rect width="356" height="164" rx="12" class="panel"/>
     <circle cx="22" cy="20" r="5" fill="#ff5f56"/><circle cx="40" cy="20" r="5" fill="#ffbd2e"/><circle cx="58" cy="20" r="5" fill="#27c93f"/>
     <text x="20" y="62" class="monoA">$</text><text x="38" y="62" class="mono">whoami</text>
-    <text x="20" y="88" class="mono">backend-dev @ colombia</text>
+    <text x="20" y="88" class="mono">dev-backend @ colombia</text>
     <text x="20" y="114" class="monoA">$</text><text x="38" y="114" class="mono">stack --main</text>
-    <text x="20" y="140" class="mono">java · spring · go · postgres</text>
+    <text x="20" y="140" class="mono">java · spring · oracle · angular</text>
     <rect x="290" y="128" width="9" height="16" class="cursor"/>
   </g>
   <circle cx="1150" cy="232" r="5" class="pulse"/>
